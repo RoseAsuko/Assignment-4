@@ -1,0 +1,31 @@
+button{
+border: none;
+color:black;
+padding: 15px 30px;
+text-align: center;
+font-size: 15px;
+margin: 4px;
+cursor: pointer;
+}
+
+button:hover{
+background-color: grey;
+color: white;
+
+}
+
+#tsundere{
+border: none;
+color:black;
+padding: 200px 250px;
+text-align: center;
+font-size: 15px;
+cursor: pointer;
+
+}
+
+#tsundere:hover{
+opacity:0.5;
+background-color: pink;
+
+}
